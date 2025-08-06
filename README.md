@@ -14,7 +14,7 @@ The full citation will be provided here once the paper is published in the confe
 The simulation and analysis code is located in the `UrbanMIMOMap_Code` folder. Due to size limitations, this repository only contains a few sample files. The complete code package can be downloaded from the links below.
 
 **Download Links for Complete Code:**
-* [Link 1: TBD]
+* [UrbanMIMOMap_Code](https://pan.baidu.com/s/1AdYfYikXlJ7GS1RkeTfcNQ?pwd=3ryb)（提取码: 3ryb）
 * [Link 2: TBD]
 
 The code folder is organized as follows:
@@ -56,7 +56,7 @@ The complete channel state information (CSI) dataset is stored in `.npz` format.
 Due to the large size of the dataset, this repository only contains a small subset of the files as examples. The complete dataset can be downloaded from the following links:
 
 **Download Links for Complete Dataset:**
-* [Link 3: TBD]
+* [channelMatrix](https://pan.baidu.com/s/19CRTqui4jx-4RmwBpBHA_g?pwd=4hsi) （提取码: 4hsi）
 * [Link 4: TBD]
 
 ### Directory Structure
