@@ -14,8 +14,8 @@ The full citation will be provided here once the paper is published in the confe
 The simulation and analysis code is located in the `UrbanMIMOMap_Code` folder. Due to size limitations, this repository only contains a few sample files. The complete code package can be downloaded from the links below.
 
 **Download Links for Complete Code:**
-* [UrbanMIMOMap_Code](https://pan.baidu.com/s/1AdYfYikXlJ7GS1RkeTfcNQ?pwd=3ryb)（提取码: 3ryb）
-* [Link 2: TBD]
+* BaiduNetdisk: [UrbanMIMOMap_Code](https://pan.baidu.com/s/1AdYfYikXlJ7GS1RkeTfcNQ?pwd=3ryb)（提取码: 3ryb）
+* OneDrive: [UrbanMIMOMap_Code](https://1drv.ms/u/c/43887b4a818e442b/ESyuStBLV8xAmxaHU2Rs2w4BpDAiZcYAz40CcGVTmL3cMA?e=DMckBR)
 
 The code folder is organized as follows:
 
@@ -56,8 +56,8 @@ The complete channel state information (CSI) dataset is stored in `.npz` format.
 Due to the large size of the dataset, this repository only contains a small subset of the files as examples. The complete dataset can be downloaded from the following links:
 
 **Download Links for Complete Dataset:**
-* [channelMatrix](https://pan.baidu.com/s/19CRTqui4jx-4RmwBpBHA_g?pwd=4hsi) （提取码: 4hsi）
-* [Link 4: TBD]
+* BaiduNetdisk: [channelMatrix](https://pan.baidu.com/s/19CRTqui4jx-4RmwBpBHA_g?pwd=4hsi) （提取码: 4hsi）
+* OneDrive: [channelMatrix](https://1drv.ms/f/c/43887b4a818e442b/EqxoPR7XBnREukrGo_8qzrIBilMZgejaDIzt6oGBF-9CPg?e=rNT5Tu)
 
 ### Directory Structure
 The dataset is structured as follows:
