@@ -76,3 +76,6 @@ channelMatrix/
 ```
 * There are 350 folders, from `resu_npz_map_0` to `resu_npz_map_349`.
 * Each folder contains 120 `.npz` files, where each file represents a specific configuration and contains the corresponding 4x4 complex MIMO channel matrix **H**.
+
+## Contact
+For any questions about the paper, code, or dataset, please feel free to contact us at: hgjia@stu.xidian.edu.cn
