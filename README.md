@@ -58,6 +58,7 @@ Due to the large size of the dataset, this repository only contains a small subs
 **Download Links for Complete Dataset:**
 * BaiduNetdisk: [channelMatrix](https://pan.baidu.com/s/19CRTqui4jx-4RmwBpBHA_g?pwd=4hsi) （提取码: 4hsi）
 * OneDrive: [channelMatrix](https://1drv.ms/f/c/43887b4a818e442b/EgQqpQAzudZDhYXX14xn-xsBxqPkXmkZy3DGOACPojdwFA?e=ASd60N)
+> **Note**: The Baidu Netdisk link contains the full dataset with all map data, while the OneDrive version includes only a subset of 50 maps due to storage limitations. For access to the complete dataset, please contact the author.
 
 ### Directory Structure
 The dataset is structured as follows:
